@@ -1,6 +1,4 @@
-# 最迷人的二营长
-
-> [个人博客](https://blog.csdn.net/m0_37965018)
+# 记录工作、投资、读书以及其它
 
 
 > [GitHub](https://github.com/Corefo/ "github")
