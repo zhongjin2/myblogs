@@ -18,7 +18,7 @@
 
 **《邻家的百万富翁》**
 
-<img src="/res/ERecommended/02.jpg" style="zoom:130%;" />
+![](/res/ERecommended/02.jpg)
 
 ​																		     作者：托马斯·斯坦利
 
@@ -28,7 +28,7 @@
 
 **《漫步华尔街》**
 
-<img src="/res/ERecommended/03.jpg" style="zoom: 50%;" />
+![](/res/ERecommended/03.jpg)
 
 ​																		     作者：伯顿 G.马尔基尔
 
@@ -38,7 +38,7 @@
 
 **《股市长线法宝》**
 
-<img src="/res/ERecommended/04.jpg" style="zoom: 70%;" />
+![](/res/ERecommended/04.jpg)
 
 ​																		             作者：西格尔
 
@@ -48,7 +48,7 @@
 
 **《投资者的未来》**
 
-<img src="/res/ERecommended/05.jpg" style="zoom: 36%;" />
+![](/res/ERecommended/05.jpg)
 
 ​																				 作者：西格尔
 
@@ -58,7 +58,7 @@
 
 **《彼得·林奇的成功投资》**
 
-<img src="/res/ERecommended/06.jpg" style="zoom: 36%;" />
+![](/res/ERecommended/06.jpg)
 
 ​																		          作者：彼得·林奇
 
@@ -68,7 +68,7 @@
 
 **《笑傲股市》**
 
-<img src="/res/ERecommended/07.jpg" style="zoom:38%;" />
+![](/res/ERecommended/07.jpg)
 
 ​																	        	作者：威廉·欧奈尔
 
@@ -78,7 +78,7 @@
 
 **《投资心理学》**
 
-<img src="/res/ERecommended/08.jpg" style="zoom:55%;" />
+![](/res/ERecommended/08.jpg)
 
 ​																			作者：约翰 R.诺夫辛格
 
@@ -88,7 +88,7 @@
 
 **《战胜华尔街》**
 
-<img src="/res/ERecommended/09.jpg" style="zoom:44%;" />
+![](/res/ERecommended/09.jpg)
 
 ​																				作者：彼得·林奇	
 
@@ -98,7 +98,7 @@
 
 **《聪明的投资者》**
 
-<img src="/res/ERecommended/10.jpg" style="zoom:43%;" />
+![](/res/ERecommended/10.jpg)
 
 ​																		     作者：本杰明·格雷厄姆
 
@@ -108,7 +108,7 @@
 
 **《投资学》**
 
-<img src="/res/ERecommended/11.jpg" style="zoom:46%;" />
+![](/res/ERecommended/11.jpg)
 
 ​																		       作者：滋维·博迪
 
@@ -118,7 +118,7 @@
 
 **《滚雪球》**
 
-<img src="/res/ERecommended/12.jpg" style="zoom:50%;" />
+![](/res/ERecommended/12.jpg)
 
 ​																		      作者：艾丽斯·施罗德 
 
@@ -128,7 +128,7 @@
 
 **《非理性繁荣》**
 
-<img src="/res/ERecommended/13.jpg" style="zoom:50%;" />
+![](/res/ERecommended/13.jpg)
 
 ​																		     作者：罗伯特.J.希勒
 
@@ -138,7 +138,7 @@
 
 **《金融的逻辑》**
 
-<img src="/res/ERecommended/14.jpg" style="zoom:55%;" />
+![](/res/ERecommended/14.jpg)
 
 ​																		      作者：陈志武
 
@@ -148,7 +148,7 @@
 
 **《约翰聂夫的成功投资》**
 
-<img src="/res/ERecommended/15.jpg" style="zoom:50%;" />
+![](/res/ERecommended/15.jpg)
 
 ​																		       作者：约翰聂夫
 
@@ -160,7 +160,7 @@
 
 **《黑天鹅》**
 
-<img src="/res/ERecommended/16.jpg" style="zoom:45%;" />
+![](/res/ERecommended/16.jpg)
 
 ​																		作者：纳西姆.尼古拉斯.塔勒布
 
@@ -170,7 +170,7 @@
 
 **《反脆弱》**
 
-<img src="/res/ERecommended/17.jpg" style="zoom:45%;" />
+![](/res/ERecommended/17.jpg)
 
 ​																		作者：纳西姆.尼古拉斯.塔勒布
 
