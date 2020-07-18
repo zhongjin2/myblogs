@@ -6,7 +6,9 @@
 
 **《巴菲特与索罗斯的投资习惯》**
 
-<img src="../res/booklist/01.jpg"  />
+![](/res/ERecommended/01.jpg)
+
+
 
 ​																					作者：马克·泰尔
 
