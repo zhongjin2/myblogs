@@ -1,4 +1,4 @@
-# LifeBook
+# ETF拯救世界西安会场专属手册
 
 
-> 感觉日积月累的力量
+[E大微薄](https://www.weibo.com/chinaetfs?from=myfollow_all)
