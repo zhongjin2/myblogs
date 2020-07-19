@@ -6,7 +6,7 @@
 
 **《巴菲特与索罗斯的投资习惯》**
 
-![](/res/ERecommended/01.jpg)
+![](/res/ERecommended/01.jpg ':size=40%')
 
 
 
@@ -18,7 +18,7 @@
 
 **《邻家的百万富翁》**
 
-![](/res/ERecommended/02.jpg)
+![](/res/ERecommended/02.jpg ':size=15%')
 
 ​																		     作者：托马斯·斯坦利
 
@@ -28,7 +28,7 @@
 
 **《漫步华尔街》**
 
-![](/res/ERecommended/03.jpg)
+![](/res/ERecommended/03.jpg ':size=40%')
 
 ​																		     作者：伯顿 G.马尔基尔
 
@@ -48,7 +48,7 @@
 
 **《投资者的未来》**
 
-![](/res/ERecommended/05.jpg)
+![](/res/ERecommended/05.jpg ':size=40%')
 
 ​																				 作者：西格尔
 
@@ -58,7 +58,7 @@
 
 **《彼得·林奇的成功投资》**
 
-![](/res/ERecommended/06.jpg)
+![](/res/ERecommended/06.jpg ':size=40%')
 
 ​																		          作者：彼得·林奇
 
@@ -68,7 +68,7 @@
 
 **《笑傲股市》**
 
-![](/res/ERecommended/07.jpg)
+![](/res/ERecommended/07.jpg ':size=40%')
 
 ​																	        	作者：威廉·欧奈尔
 
@@ -78,7 +78,7 @@
 
 **《投资心理学》**
 
-![](/res/ERecommended/08.jpg)
+![](/res/ERecommended/08.jpg ':size=40%')
 
 ​																			作者：约翰 R.诺夫辛格
 
@@ -88,7 +88,7 @@
 
 **《战胜华尔街》**
 
-![](/res/ERecommended/09.jpg)
+![](/res/ERecommended/09.jpg ':size=40%')
 
 ​																				作者：彼得·林奇	
 
@@ -98,7 +98,7 @@
 
 **《聪明的投资者》**
 
-![](/res/ERecommended/10.jpg)
+![](/res/ERecommended/10.jpg ':size=40%')
 
 ​																		     作者：本杰明·格雷厄姆
 
@@ -108,7 +108,7 @@
 
 **《投资学》**
 
-![](/res/ERecommended/11.jpg)
+![](/res/ERecommended/11.jpg ':size=40%')
 
 ​																		       作者：滋维·博迪
 
@@ -118,7 +118,7 @@
 
 **《滚雪球》**
 
-![](/res/ERecommended/12.jpg)
+![](/res/ERecommended/12.jpg ':size=40%')
 
 ​																		      作者：艾丽斯·施罗德 
 
@@ -128,7 +128,7 @@
 
 **《非理性繁荣》**
 
-![](/res/ERecommended/13.jpg)
+![](/res/ERecommended/13.jpg ':size=40%')
 
 ​																		     作者：罗伯特.J.希勒
 
@@ -138,7 +138,7 @@
 
 **《金融的逻辑》**
 
-![](/res/ERecommended/14.jpg)
+![](/res/ERecommended/14.jpg ':size=40%')
 
 ​																		      作者：陈志武
 
@@ -148,7 +148,7 @@
 
 **《约翰聂夫的成功投资》**
 
-![](/res/ERecommended/15.jpg)
+![](/res/ERecommended/15.jpg ':size=40%')
 
 ​																		       作者：约翰聂夫
 
@@ -160,7 +160,7 @@
 
 **《黑天鹅》**
 
-![](/res/ERecommended/16.jpg)
+![](/res/ERecommended/16.jpg ':size=40%')
 
 ​																		作者：纳西姆.尼古拉斯.塔勒布
 
@@ -170,7 +170,7 @@
 
 **《反脆弱》**
 
-![](/res/ERecommended/17.jpg)
+![](/res/ERecommended/17.jpg ':size=40%')
 
 ​																		作者：纳西姆.尼古拉斯.塔勒布
 
