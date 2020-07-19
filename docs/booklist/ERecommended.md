@@ -38,7 +38,7 @@
 
 **《股市长线法宝》**
 
-![](/res/ERecommended/04.jpg)
+![](/res/ERecommended/04.jpg ':size=40%')
 
 ​																		             作者：西格尔
 
