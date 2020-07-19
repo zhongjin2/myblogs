@@ -6,7 +6,7 @@
 
 **《巴菲特与索罗斯的投资习惯》**
 
-![](../res/booklist/ERecommended/01.jpg ':size=40%')
+![](../res/booklist/ERecommended/01.jpg)
 
 
 
@@ -18,7 +18,7 @@
 
 **《邻家的百万富翁》**
 
-![](../res/booklist/ERecommended/02.jpg ':size=30%')
+![](../res/booklist/ERecommended/02.jpg)
 
 ​																		     作者：托马斯·斯坦利
 
@@ -28,7 +28,7 @@
 
 **《漫步华尔街》**
 
-![](../res/booklist/ERecommended/03.jpg ':size=40%')
+![](../res/booklist/ERecommended/03.jpg ':size=300')
 
 ​																		     作者：伯顿 G.马尔基尔
 
@@ -38,7 +38,7 @@
 
 **《股市长线法宝》**
 
-![](../res/booklist/ERecommended/04.jpg ':size=40%')
+![](../res/booklist/ERecommended/04.jpg ':size=300')
 
 ​																		             作者：西格尔
 
@@ -48,7 +48,7 @@
 
 **《投资者的未来》**
 
-![](../res/booklist/ERecommended/05.jpg ':size=40%')
+![](../res/booklist/ERecommended/05.jpg ':size=300')
 
 ​																				 作者：西格尔
 
@@ -58,7 +58,7 @@
 
 **《彼得·林奇的成功投资》**
 
-![](../res/booklist/ERecommended/06.jpg ':size=40%')
+![](../res/booklist/ERecommended/06.jpg ':size=300')
 
 ​																		          作者：彼得·林奇
 
@@ -68,7 +68,7 @@
 
 **《笑傲股市》**
 
-![](../res/booklist/ERecommended/07.jpg ':size=40%')
+![](../res/booklist/ERecommended/07.jpg ':size=300')
 
 ​																	        	作者：威廉·欧奈尔
 
@@ -78,7 +78,7 @@
 
 **《投资心理学》**
 
-![](../res/booklist/ERecommended/08.jpg ':size=40%')
+![](../res/booklist/ERecommended/08.jpg ':size=300')
 
 ​																			作者：约翰 R.诺夫辛格
 
@@ -88,7 +88,7 @@
 
 **《战胜华尔街》**
 
-![](../res/booklist/ERecommended/09.jpg ':size=40%')
+![](../res/booklist/ERecommended/09.jpg ':size=300')
 
 ​																				作者：彼得·林奇	
 
@@ -98,7 +98,7 @@
 
 **《聪明的投资者》**
 
-![](../res/booklist/ERecommended/10.jpg ':size=40%')
+![](../res/booklist/ERecommended/10.jpg ':size=300')
 
 ​																		     作者：本杰明·格雷厄姆
 
@@ -108,7 +108,7 @@
 
 **《投资学》**
 
-![](../res/booklist/ERecommended/11.jpg ':size=40%')
+![](../res/booklist/ERecommended/11.jpg ':size=300')
 
 ​																		       作者：滋维·博迪
 
@@ -118,7 +118,7 @@
 
 **《滚雪球》**
 
-![](../res/booklist/ERecommended/12.jpg ':size=40%')
+![](../res/booklist/ERecommended/12.jpg ':size=300')
 
 ​																		      作者：艾丽斯·施罗德 
 
@@ -128,7 +128,7 @@
 
 **《非理性繁荣》**
 
-![](../res/booklist/ERecommended/13.jpg ':size=40%')
+![](../res/booklist/ERecommended/13.jpg ':size=300')
 
 ​																		     作者：罗伯特.J.希勒
 
@@ -138,7 +138,7 @@
 
 **《金融的逻辑》**
 
-![](../res/booklist/ERecommended/14.jpg ':size=40%')
+![](../res/booklist/ERecommended/14.jpg ':size=300')
 
 ​																		      作者：陈志武
 
@@ -148,7 +148,7 @@
 
 **《约翰聂夫的成功投资》**
 
-![](../res/booklist/ERecommended/15.jpg ':size=40%')
+![](../res/booklist/ERecommended/15.jpg ':size=300')
 
 ​																		       作者：约翰聂夫
 
@@ -160,7 +160,7 @@
 
 **《黑天鹅》**
 
-![](../res/booklist/ERecommended/16.jpg ':size=40%')
+![](../res/booklist/ERecommended/16.jpg ':size=300')
 
 ​																		作者：纳西姆.尼古拉斯.塔勒布
 
@@ -170,7 +170,7 @@
 
 **《反脆弱》**
 
-![](../res/booklist/ERecommended/17.jpg ':size=40%')
+![](../res/booklist/ERecommended/17.jpg ':size=300')
 
 ​																		作者：纳西姆.尼古拉斯.塔勒布
 
