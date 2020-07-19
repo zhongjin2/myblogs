@@ -18,7 +18,7 @@
 
 **《邻家的百万富翁》**
 
-![](/res/ERecommended/02.jpg ':size=15%')
+![](/res/ERecommended/02.jpg ':size=30%')
 
 ​																		     作者：托马斯·斯坦利
 
