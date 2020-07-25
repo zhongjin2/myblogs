@@ -11,6 +11,7 @@
 * **周末读书**
 	
 	* [E大书单](booklist/ERecommended.md)
+	* [可转债投资魔法书](booklist/可转债投资魔法书.md)
 	
 * **心路历程**
   
