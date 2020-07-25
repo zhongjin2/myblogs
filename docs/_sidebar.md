@@ -7,6 +7,7 @@
   
     * [可转债打新](investment/可转债打新.md)
 	* [定投](investment/定投.md)
+    * [主动基金](investment/主动基金.md)
     
 * **周末读书**
 	
