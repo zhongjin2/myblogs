@@ -24,3 +24,4 @@
 	* [Cherish](experience/Cherish.md)
     * [Dec9](experience/Dec9.md)
 	* [江月](experience/江月.md)
+	* [钟进](experience/钟进.md)
