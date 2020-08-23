@@ -28,3 +28,4 @@
 	* [钟进](experience/钟进.md)
     * [青锋](experience/青锋.md)
 	* [三三](experience/三三.md)
+	* [八戒](experience/八戒.md)
