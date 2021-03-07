@@ -6,7 +6,13 @@
 
 [波段策略.网格之三：网格策略进阶/2.0版](https://mp.weixin.qq.com/s/8pRKsjiQSZzrmH-uWCkRLQ)
 
+**网格管理系统**
 
+![](..\res\armory\grid\grid2.png)
+
+下载地址
+
+百度网盘：[链接](https://pan.baidu.com/s/1hxboVvuhMS2vidIrTjJt6Q) 提取码：243c
 
 **E大网格跟踪表**
 
