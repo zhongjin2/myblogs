@@ -36,5 +36,3 @@
 	* [小祝](experience/小祝.md)
     * [Sssssssss](experience/Sssssssss.md)
 	* [dmy](experience/dmy.md)
-	* [somebody](experience/somebody.md)
-	* [赵宇](experience/赵宇.md)
