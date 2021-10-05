@@ -8,8 +8,8 @@
     * [可转债打新](investment/可转债打新.md)
 	* [定投](investment/定投.md)
     * [主动基金](investment/主动基金.md)
-    * [E大网格](investment/E大网格.md)
-	* [资产配置](investment/资产配置.md)
+    * [E大网格(含工具)](investment/E大网格.md)
+	* [资产配置(含工具)](investment/资产配置.md)
 	
 * **周末读书**
 	
