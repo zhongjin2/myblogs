@@ -51,4 +51,5 @@
 	* [丁冉](experience/丁冉.md)
 	* [追逐](experience/追逐.md)
 	* [青峰b](experience/青峰b.md)
+	* [寂静之声](experience/寂静之声.md)
 	* [Ammy](experience/Ammy.md)
